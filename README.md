@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bar-85
-- 👀 I’m interested in HTML, CSS, SCSS, JavaScript
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in HTML, CSS, SCSS, JavaScript, React
+- 🌱 I’m currently learning React
 
  
 
