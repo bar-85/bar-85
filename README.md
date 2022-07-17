@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bar-85
-- 👀 I’m interested in HTML, CSS, SCSS, JavaScript, React
-- 🌱 I’m currently learning React
+- 👀 I’m interested in HTML, CSS, SCSS, JavaScript, Vue3
+- 🌱 I’m currently learning Vue3
 
  
 
