@@ -1,5 +1,5 @@
 <h2 align="center"> 👋 Hi, I’m @bar-85 </h2>
-<h3 align="center"> 👀 I’m interested in HTML, CSS, SCSS, JavaScript, Vue 3 </h3>
+<h3 align="center"> 👀 I’m interested in HTML, CSS/SCSS, JavaScript, Vue 3 </h3>
 <h4 align="center"> 🌱 I’m currently learning Vue 3 </h4>
 <br />
 <br />
