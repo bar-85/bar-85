@@ -11,6 +11,7 @@
 <br />
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bar-85&show_icons=true&locale=en&layout=compact&theme=radical" alt="bar-85" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bar-85&show_icons=true&locale=en&layout=compact&theme=radical" alt="bar-85" /></p>
 <br />
 
 
