@@ -1,6 +1,5 @@
 <h2 align="center"> 👋 Hi 😸</h2>
-<h3 align="center"> 👀 I’m interested in SQL, HTML, CSS/SCSS, JavaScript, Vue 3 🤔</h3>
-<h4 align="center"> 🌱 I’m currently learning React 😺</h4>
+<h3 align="center"> 👀 I’m interested in SQL, HTML, CSS/SCSS, JavaScript, React, Vue 3 🤔</h3>
 <br />
 <br />
 <h2 align="left"> 🛠 Languages and Tools: 🪛 </h2>
