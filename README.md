@@ -8,7 +8,6 @@
  <br />
  <br />
  
- https://img.icons8.com/color/48/000000/typescript.png
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bar-85&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 <!---
